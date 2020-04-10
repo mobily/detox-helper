@@ -22,9 +22,6 @@
     "url": "https://github.com/Codeception/detox-helper/issues"
   },
   "homepage": "https://github.com/Codeception/detox-helper#readme",
-  "dependencies": {
-    "detox": "^12.11.3"
-  },
   "devDependencies": {
     "codeceptjs": "^2.2.1",
     "documentation": "^11.0.1"
